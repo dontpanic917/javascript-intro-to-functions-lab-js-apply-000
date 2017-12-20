@@ -10,5 +10,5 @@ function
   
 function
   logShout(string) {
-    console.log(string)
+    console.log(shout(string))
   }
